@@ -34,7 +34,7 @@ Specialist degree
 
 ### Netcracker LLC 
 
-May 2013 — January 2022
+<i>May 2013 — January 2022</i>
 
 Sumy, Ukraine 
 
@@ -58,9 +58,11 @@ Sumy, Ukraine
 
 ### Astound Commerce, contract 
 
+<i>February 2022 — present time</i>
+
 #### Position:  
 
-January 2022 - present – Java developer (Confluence, Jira, add-ons/script developer) 
+- January 2022 - present – Java developer (Confluence, Jira, add-ons/script developer) 
 
 #### Responsibilities:  
 
